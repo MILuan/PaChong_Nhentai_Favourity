@@ -1,0 +1,2 @@
+# PaChong_Nhentai_Favourity
+Nhentai里的favourity页爬虫
